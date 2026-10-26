@@ -1,0 +1,3866 @@
+{
+  "generated_utc": "2026-10-26T00:45:36.996351+00:00",
+  "target_screenshots_per_project": "More than 10 when the site exposes enough distinct screens; never duplicate or fabricate. Supplemental original site images are labeled separately.",
+  "projects": [
+    {
+      "id": "nexgen-academy",
+      "title": "NexGen Academy",
+      "url": "https://nexgen-academy.com",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 14,
+      "visual_asset_count": 25,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/nexgen-academy/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/09-page-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar/about",
+          "label": "page من نحن",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/10-detail-section-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar/about",
+          "label": "من نحن detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nexgen-academy/11-page-desktop.jpg",
+          "url": "https://nexgen-academy.com/ar/courses",
+          "label": "page الدورات",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/nexgen-academy/01-afnan-aldawoud.webp",
+          "source_url": "https://api.nexgen-academy.com/users/profileImg-44263d59-32d3-478c-9d65-7c35cbd395aa-1740343201647.webp",
+          "alt": "AFNAN ALDAWOUD",
+          "width": 1524,
+          "height": 2032,
+          "format": "WEBP",
+          "bytes": 657734,
+          "sha256": "89aecdbb7c9628bf7f619f96a43be2edf2313dfdb36b944cdbb4e02da05cec3f",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/02-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/users/profileImg-4d8a711c-a035-45ec-8c00-2063df408f66-1736965892984.webp",
+          "alt": "طيف حسن العميدي",
+          "width": 960,
+          "height": 1280,
+          "format": "WEBP",
+          "bytes": 333554,
+          "sha256": "61284d06648160ec06306921a4b1dbd780bd0cb91812ba7f38be572b778db3a3",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/03-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/coursePackages/coursePackage-66f2a986-fe2e-4c4e-8eb7-13609d5dfe27-1790519394842.png",
+          "alt": "المسار الاستثماري للمتداول العربي",
+          "width": 1671,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 325022,
+          "sha256": "9c478c8d8bcbd06aedda274c81bfff192a0a37c4d02f5d7c48695536a2b6fd7d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/04-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/coursePackages/coursePackage-8837e1ae-d46f-4442-876f-376af2c8d017-1790519170023.png",
+          "alt": "المسار المنهجي للمتداول العربي",
+          "width": 1775,
+          "height": 886,
+          "format": "WEBP",
+          "bytes": 280344,
+          "sha256": "401e406a8b5aa5d15545995e31db26ae91c0f1164584a3353bfa4eee5de2a40f",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/05-website-photo.png",
+          "source_url": "https://nexgen-academy.com/_next/image?url=%2Fimages%2Fnew_hero.png&w=750&q=75",
+          "alt": "متعلم يستكشف دورات أكاديمية نكسجن",
+          "width": 750,
+          "height": 832,
+          "format": "PNG",
+          "bytes": 159032,
+          "sha256": "9916bedb28689aedbca4de6ffbb194eca162ce2cef3ab85ae48f39100a8920e3",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/06-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-578498f5-e4b9-4d3c-b057-0ae9c5f3f37b-1790518719525.png",
+          "alt": "مدخل إلى الفوركس",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 227022,
+          "sha256": "5123ad8b5a9b1d623e0792a549dfbd9aa9d3e176d2f427b0da154b5bd1df29d1",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/07-mohammad-aldawoud.webp",
+          "source_url": "https://api.nexgen-academy.com/users/profileImg-53e1d04b-c97c-4950-9bb1-5ab4ff8416dc-1792162794741.webp",
+          "alt": "MOHAMMAD ALDAWOUD",
+          "width": 1254,
+          "height": 1254,
+          "format": "WEBP",
+          "bytes": 170576,
+          "sha256": "4405ffc611a7132539b44ba873d149bda24b264e82fd89fcd92e75a2ef27299e",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/08-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-867b5486-519e-43aa-9ac9-678a9047b0a7-1790517771354.png",
+          "alt": "تحليل الرسم البياني",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 163154,
+          "sha256": "9cbc6272d61d586b77ce17908b1d182bef3feb61525f9530eb8aa561bc7f8497",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/09-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-64e27373-0142-44ce-a9d6-947c23109663-1790517881484.png",
+          "alt": "التحليل الإحصائي (المؤشرات الفنية)",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 193980,
+          "sha256": "05db2c1f11d62132c7c77f3758c1b6dd6e313879c65c164edf39417922bb5041",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/10-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-d3547430-9a4a-4f03-9c6f-c73bc5f0f826-1790518034605.png",
+          "alt": "التحليل الأساسي",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 309832,
+          "sha256": "1c32e8bf9e2c781b23faec9ddc208c4268fb686c48a7560fcbdb14e15937af7d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/11-smc.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-b076b125-6bcb-4351-a090-079b31bd8be5-1790518199233.png",
+          "alt": " SMC | احتراف تداول السيولة الذكية",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 258548,
+          "sha256": "66b885e10208cdbb2d716bf6da84307b0e9c45ab6ead6af656f98a2465b48be6",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/12-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-e84c73c8-ced0-4e71-9c65-0147db7d5984-1790516973788.png",
+          "alt": "إستراتيجية الربح السريع ",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 291946,
+          "sha256": "1268954d2dc9b6d44559afcf1d127a4df84981166da60a535e4f06949f64554b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/13-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/courses/course-cf8ba1a5-518f-41de-a05b-9a69871f6f1e-1790517158132.png",
+          "alt": "الاستثمار الذكي بالذهب",
+          "width": 1672,
+          "height": 941,
+          "format": "WEBP",
+          "bytes": 307432,
+          "sha256": "c4501d428bbcdcfe5b18006b59f1a5b4dfd3efe952ec18f1acb6af5bb9d3254f",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/nexgen-academy/14-website-photo.webp",
+          "source_url": "https://api.nexgen-academy.com/packages/package-d343b3fa-86cd-4b08-a975-da6bd0afca54-1776968860209.jpeg",
+          "alt": "خدمة التحليل الاقتصادي المتقدمة",
+          "width": 1200,
+          "height": 1200,
+          "format": "WEBP",
+          "bytes": 395532,
+          "sha256": "f4789ab6390beae538ff5ab417af5a8343af154d61c34e0fa1d87a0009aa551d",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied root URL redirects to the Arabic /ar version; all content inspected was primarily Arabic, with English brand and instructor names. The footer says Arabic and English are available, but an English page was not inspected.",
+        "Homepage learner/course/rating counts, customer testimonials, licensing and performance-oriented statements are displayed claims, not independently verified.",
+        "The course detail page visibly showed “Course content is loading...” in its content area during inspection; other course details and the service detail remained readable.",
+        "The catalog exposes four category labels, but the observed service/course cards and selected detail inspected were financial-market/forex related; availability of other category inventory was not established.",
+        "Contact form submission, account creation/login, checkout, payment, course access and backend behaviors were not tested. A visible CTA is not evidence of a completed transaction.",
+        "The Contact/footer email is rendered as nexgensupprot@gmail.com; spelling is transcribed as displayed and not validated."
+      ]
+    },
+    {
+      "id": "albhsa",
+      "title": "Albhsa",
+      "url": "https://albhsa.com",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 6,
+      "visual_asset_count": 17,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/albhsa/08-page-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=rentals&sort=newest",
+          "label": "page إيجارات",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://albhsa.com/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://albhsa.com/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://albhsa.com/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/04-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://albhsa.com/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/05-page-desktop.jpg",
+          "url": "https://albhsa.com/login",
+          "label": "page تسجيل دخول",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/06-page-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=real-estate&sort=newest",
+          "label": "page عقارات",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/07-detail-section-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=real-estate&sort=newest",
+          "label": "عقارات detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/09-detail-section-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=rentals&sort=newest",
+          "label": "إيجارات detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/10-page-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=electronics&sort=newest",
+          "label": "page إلكترونيات",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/albhsa/11-page-desktop.jpg",
+          "url": "https://albhsa.com/browse?category=appliances&sort=newest",
+          "label": "page أجهزة كهربائية",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/albhsa/01-website-photo.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/50db6b3a-b5ab-43e5-9244-745500d6ad41.webp",
+          "alt": "محافظة اللاذقية ،منطقة جبلة",
+          "width": 763,
+          "height": 570,
+          "format": "PNG",
+          "bytes": 657800,
+          "sha256": "c6359d14c16a9a7e89704210db3bd388167bfec8382fd663612c30fa60d5d479",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/albhsa/02-6.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/9cf90811-7aaf-4266-8fe5-7efa9740af93.webp",
+          "alt": "شقة مفروشة للأجار السنوي بالشعلان (ممكن 6 أشهر)",
+          "width": 763,
+          "height": 570,
+          "format": "PNG",
+          "bytes": 576426,
+          "sha256": "6c9082d0117ab9bb63c60167aa52177491dc702d822f703ca963b5a2e5e45979",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/albhsa/03-website-photo.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/d7cbc0ef-e17a-4ced-af1b-aa9eb345a2cf.webp",
+          "alt": "للبيع | مطعم بـ دمر الشرقية",
+          "width": 644,
+          "height": 481,
+          "format": "PNG",
+          "bytes": 456235,
+          "sha256": "50b4fc2fca4288bdbb08c327fc427396f11cc955150b0c94c8bd35c6175bc710",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/albhsa/04-website-photo.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/e2014bff-fcd0-4220-a459-7d028ad0a63e.webp",
+          "alt": "دمشق - الجسر الأبيض",
+          "width": 481,
+          "height": 644,
+          "format": "PNG",
+          "bytes": 442489,
+          "sha256": "d6b033ccc1355b62f4ba475bd642c9f3e771340d562eb30ddd1aa9b198a0a5fe",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/albhsa/05-website-photo.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/494c7b1f-00c1-4362-a084-14cf39512ba0.webp",
+          "alt": "مدينة اللاذقية ،المشروع السابع بجانب مدرسة لؤي سليمة",
+          "width": 462,
+          "height": 513,
+          "format": "PNG",
+          "bytes": 275146,
+          "sha256": "9a18d49037090a67b926d1968da74b3b084322bc3128753eeaaf65c4753227b2",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/albhsa/06-website-photo.png",
+          "source_url": "https://albhsa.com/api/public/media/listings/8f8f9c85-14db-4441-9ae7-ed2029864a43/optimized/8bef4f82-883b-4d81-b05e-94a0471d608a.webp",
+          "alt": "عقار للبيع يصلح سكن او عيادات او مكاتب ",
+          "width": 454,
+          "height": 608,
+          "format": "PNG",
+          "bytes": 364730,
+          "sha256": "1e3dd91c72e30d83b634fba2c9014b8ca2efae1c20d1bcc0c31f60e087a5b317",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The homepage displayed “لا توجد إعلانات بعد — كن الأول!” (no ads yet), while the separately visited /browse?sort=newest route showed populated listings. This is a visible mismatch between routes at inspection time.",
+        "The /auctions route displayed “لا توجد مزادات نشطة”; do not represent the auction area as currently populated.",
+        "The persistent-looking promotional dialog/scrim on multiple secondary pages obstructed content in screenshots; it was not interacted with.",
+        "An EN button is visible, but the English-language experience was not inspected; most visible content is Arabic.",
+        "No forms were submitted, no account was created or accessed, and no payment, messaging, posting, map-search, or other backend interaction was tested. Explanations of those flows come from site copy only.",
+        "About-page claims (including its superlative positioning and descriptions of trust or scale) are unverified marketing copy."
+      ]
+    },
+    {
+      "id": "areej-elegance",
+      "title": "Areej Elegance",
+      "url": "https://areej-elegance.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 5,
+      "visual_asset_count": 16,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/areej-elegance/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/08-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/09-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/10-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/areej-elegance/11-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://areej-elegance.pauladev.workers.dev/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/areej-elegance/01-website-photo.jpg",
+          "source_url": "https://areej-elegance.pauladev.workers.dev/assets/hero-bottle-DLxpd8Tb.jpg",
+          "alt": "عطر أريج المميز",
+          "width": 1080,
+          "height": 1920,
+          "format": "JPEG",
+          "bytes": 119420,
+          "sha256": "6d790785bb627b8f1769d52a0a0981f0ccc67841270ee74b527ec2fcb9efcdd0",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/areej-elegance/02-website-photo.jpg",
+          "source_url": "https://areej-elegance.pauladev.workers.dev/assets/perfume-1-LZTC4UiO.jpg",
+          "alt": "عطر ديور سوفاج",
+          "width": 768,
+          "height": 1024,
+          "format": "JPEG",
+          "bytes": 39473,
+          "sha256": "88f750d657a3bc1fb873179ec969d7055587cda789da413365a070a1c26085d0",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/areej-elegance/03-website-photo.jpg",
+          "source_url": "https://areej-elegance.pauladev.workers.dev/assets/perfume-2-BSF-FhOu.jpg",
+          "alt": "عطر كريد أفينتوس",
+          "width": 768,
+          "height": 1024,
+          "format": "JPEG",
+          "bytes": 41593,
+          "sha256": "6854f4ef763331b54bb1916a23e72116b6a943512c2209d07d87d12b356a4be5",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/areej-elegance/04-website-photo.jpg",
+          "source_url": "https://areej-elegance.pauladev.workers.dev/assets/perfume-4-akktM9li.jpg",
+          "alt": "عطر توم فورد عود وود",
+          "width": 768,
+          "height": 1024,
+          "format": "JPEG",
+          "bytes": 45753,
+          "sha256": "57179fe56c3c88ee6828ace64b606e89ee502d6fcb3ede9b13592d64223c1c9f",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/areej-elegance/05-website-photo.jpg",
+          "source_url": "https://areej-elegance.pauladev.workers.dev/assets/perfume-3-Dv5kh1pt.jpg",
+          "alt": "عطر جادور ديور",
+          "width": 768,
+          "height": 1024,
+          "format": "JPEG",
+          "bytes": 48879,
+          "sha256": "1b8c156ec5fe17db067d4bc0e4df764d53e57895e6a67baf5975330c334b6c02",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Only the supplied workers.dev deployment was inspected; it is distinct from the displayed business name and no separate official brand domain was verified.",
+        "This is a single-page site with anchor navigation, not multiple service/product detail pages. No forms, cart, checkout, login, or backend behavior were visibly established.",
+        "The WhatsApp CTAs point to wa.me/201000000000, a generic-looking number; destination ownership and order functionality were not tested.",
+        "Instagram link destination is the generic instagram.com URL, rather than a visible brand-specific profile.",
+        "Several product image references are reused for different product labels (for example, the hero image is also used for Blue de Chanel and Khamrah, and other card images recur); images should not be assumed to be distinct product photography for every item.",
+        "The site presents authenticity, delivery, and customer-count statements as claims; these were not independently verified. About copy mentions both authentic and carefully inspired fragrances, while a hero assurance says 100% authentic."
+      ]
+    },
+    {
+      "id": "abaya",
+      "title": "Abaya",
+      "url": "https://abaya.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 5,
+      "visual_asset_count": 16,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/abaya/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/05-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/06-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/abaya/07-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/abaya/08-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/abaya/09-section-discover-timeless-elegance.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "Discover Timeless Elegance",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 885
+        },
+        {
+          "file": "assets/screenshots/abaya/10-section-curated-for-the-modern-muse.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "Curated for the modern muse",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 910
+        },
+        {
+          "file": "assets/screenshots/abaya/11-section-crafted-with-intention.jpg",
+          "url": "https://abaya.pauladev.workers.dev/",
+          "label": "Crafted with intention",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 532
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/abaya/01-elegant-model-wearing-a-flowing-black-ab.jpg",
+          "source_url": "https://abaya.pauladev.workers.dev/assets/hero-BHZDlBcu.jpg",
+          "alt": "Elegant model wearing a flowing black abaya",
+          "width": 1080,
+          "height": 1920,
+          "format": "JPEG",
+          "bytes": 81885,
+          "sha256": "e918db97fc7dac7eb6fa74058d10b6ea0c71cfa78926630c3715f000547eb105",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/abaya/02-royal-black-abaya.jpg",
+          "source_url": "https://abaya.pauladev.workers.dev/assets/p1-fbT0LIT9.jpg",
+          "alt": "Royal Black Abaya",
+          "width": 800,
+          "height": 1000,
+          "format": "JPEG",
+          "bytes": 30498,
+          "sha256": "808382998a17f5d4be4f9d8474d1e106d7c3519f470f20a4f3480afd6aee5400",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/abaya/03-classic-beige-abaya.jpg",
+          "source_url": "https://abaya.pauladev.workers.dev/assets/p2-Colzhhpv.jpg",
+          "alt": "Classic Beige Abaya",
+          "width": 800,
+          "height": 1000,
+          "format": "JPEG",
+          "bytes": 28619,
+          "sha256": "9c34b2eb7452378fd00aaeff484554076a66473d2f98d980c4d2524a5da58c72",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/abaya/04-modern-brown-abaya.jpg",
+          "source_url": "https://abaya.pauladev.workers.dev/assets/p3-CzVVRcGQ.jpg",
+          "alt": "Modern Brown Abaya",
+          "width": 800,
+          "height": 1000,
+          "format": "JPEG",
+          "bytes": 36660,
+          "sha256": "eb973a181d63f0cada9879861ae4b18404b97eae3c43fb6e0db3d71def529ecd",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/abaya/05-elegant-gray-abaya.jpg",
+          "source_url": "https://abaya.pauladev.workers.dev/assets/p4-DoJm8Dzt.jpg",
+          "alt": "Elegant Gray Abaya",
+          "width": 800,
+          "height": 1000,
+          "format": "JPEG",
+          "bytes": 35581,
+          "sha256": "1c94cc961dbd51e0aa5ddc89b62c71cb59ee0fb5ea0afe067cf9f9dd6c88a19b",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Only a single populated homepage with same-page hash sections was found; no separate service, product-detail, about, contact, or portfolio pages were observed.",
+        "WhatsApp links point off-site; no external destination was opened, no order was placed, and no backend or fulfillment behavior was tested.",
+        "The FAQ, delivery statements, testimonial copy, and homepage metrics are site claims, not independently validated outcomes or business facts.",
+        "Footer Instagram and TikTok links point to generic platform URLs in the visible page extraction; no official brand profiles were verified.",
+        "In Arabic mode, several homepage stat labels and hero/product labels remain English while major copy and product names translate; this is a visible localization inconsistency."
+      ]
+    },
+    {
+      "id": "zuzi-store",
+      "title": "Zuzi Store",
+      "url": "https://zuzistore.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 6,
+      "visual_asset_count": 17,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/zuzi-store/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/07-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/08-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/09-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/10-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/zuzi-store/11-image-element-flash-sale.jpg",
+          "url": "https://zuzistore.pauladev.workers.dev/",
+          "label": "Flash Sale",
+          "viewport": "desktop-element-crop",
+          "width": 455,
+          "height": 272
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/zuzi-store/01-rose-gold-eyeshadow.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-eyeshadow.webp",
+          "alt": "Rose Gold Eyeshadow",
+          "width": 1313,
+          "height": 792,
+          "format": "WEBP",
+          "bytes": 84368,
+          "sha256": "76dd8ce35c08b3153d2e72ec86bbb81354a79f00e98f2e3ec38ef97d84cd7a9d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/zuzi-store/02-petal-mist-toner.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-toner.webp",
+          "alt": "Petal Mist Toner",
+          "width": 879,
+          "height": 749,
+          "format": "WEBP",
+          "bytes": 49840,
+          "sha256": "ff9605b2d1dfde644dd149347e942a237245c5a28baa498c21be6f760bc22698",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/zuzi-store/03-luxe-moisture-cream.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-cream.webp",
+          "alt": "Luxe Moisture Cream",
+          "width": 1227,
+          "height": 733,
+          "format": "WEBP",
+          "bytes": 44986,
+          "sha256": "636a849ac531238050e5418f7717ce3205faf3fb078e810268381ed1f188a0be",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/zuzi-store/04-perfume.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-perfume.webp",
+          "alt": "perfume",
+          "width": 820,
+          "height": 688,
+          "format": "WEBP",
+          "bytes": 64466,
+          "sha256": "24653f4ecaf8065e6dc5f95ffb20c642261e07f3177245b808c63ff2f7fa2b4c",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/zuzi-store/05-lipstick.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-lipstick.webp",
+          "alt": "lipstick",
+          "width": 569,
+          "height": 655,
+          "format": "WEBP",
+          "bytes": 36916,
+          "sha256": "fc88ca81ff5aefda978f2bbc6910ba3bc5144cf99b78ee13902ef0ad5410f733",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/zuzi-store/06-argan-silk-hair-oil.webp",
+          "source_url": "https://zuzistore.pauladev.workers.dev/product-hair-oil.webp",
+          "alt": "Argan Silk Hair Oil",
+          "width": 420,
+          "height": 612,
+          "format": "WEBP",
+          "bytes": 22180,
+          "sha256": "c3559c50b81416c849ae850d73198bd89e570fe64122f9d6e166e2a3e50d0cb5",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied URL is hosted on the pauladev.workers.dev subdomain, while the visible storefront brand is Zuzi Store; the domain should not be presented as the business’s branded domain.",
+        "The original portfolio-project label (‘Zuzi Store’) and visible customer-facing brand name are both Zuzi Store; no distinct alternate company name is shown.",
+        "Only the single homepage URL was visited. Navigation exposes sections on that page, not verified standalone destinations; no separate product-detail or catalog pages were found during this inspection.",
+        "Add to Cart, Grab Offer, Shop Now, Explore Offers, cart, theme and language-control behavior was not established; no forms were submitted and no login, order or checkout was attempted.",
+        "Customer counts, product count, originality, quality, ingredient, delivery, testimonial and discount statements are page copy only and were not independently validated.",
+        "WhatsApp is shown with +1 (234) 567-890 and hello@zuzistore.com; social buttons point to generic Instagram/TikTok home domains in the rendered link text. External links were not tested."
+      ]
+    },
+    {
+      "id": "car-motors",
+      "title": "Cairo Motors",
+      "url": "https://carmotors.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 14,
+      "visual_asset_count": 25,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/car-motors/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/07-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/08-page-2024-324-5-203-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/cars/1",
+          "label": "page متاح تويوتا تويوتا كامري 2024 (324) بنزين 5 مقاعد 203 حصان أوتوماتيك ٣",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/09-2024-324-5-203-detail-section-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/cars/1",
+          "label": "متاح تويوتا تويوتا كامري 2024 (324) بنزين 5 مقاعد 203 حصان أوتوماتيك ٣ detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/10-page-2024-256-5-180-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/cars/2",
+          "label": "page متاح هونداي هونداي أكورد 2024 (256) بنزين 5 مقاعد 180 حصان أوتوماتيك ٣",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/car-motors/11-2024-256-5-180-detail-section-desktop.jpg",
+          "url": "https://carmotors.pauladev.workers.dev/cars/2",
+          "label": "متاح هونداي هونداي أكورد 2024 (256) بنزين 5 مقاعد 180 حصان أوتوماتيك ٣ detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/car-motors/01-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-1-main.png",
+          "alt": "تويوتا كامري 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1358388,
+          "sha256": "d08629710ac933effd6c4a01ae1ce2e57b2867f4dcda55b82e19ddad42058c33",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/02-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-2-main.png",
+          "alt": "هونداي أكورد 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1360862,
+          "sha256": "bbd908fa85d94f950b87af7a7a32378cf6969295c903404c7782eb77cdbe923a",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/03-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-3-main.png",
+          "alt": "كيا سورينتو 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1304862,
+          "sha256": "851157ab896c8639fc6158fef97a1d4cabe6ddd5c4c693f9c524eefa20f7c517",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/04-c-class-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-4-main.png",
+          "alt": "مرسيدس C-Class 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1369467,
+          "sha256": "8d435e1ff3abab2b8bb4b3ec9097806c8fa6974cf86e428af67ae98194869a8a",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/05-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-7-main.png",
+          "alt": "نيسان ألتيما 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1492488,
+          "sha256": "e0a388132d3ecb740a9277e7bd2c142e469e8529c5b76ec8b9201ddf1204ee6d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/06-bmw-x5-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-5-main.png",
+          "alt": "BMW X5 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1385415,
+          "sha256": "bf7e6d604f0950e574e13325a1d51dafff66ece9494aec0c3d16e50d7d6494cb",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/07-cx-5-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-8-side.png",
+          "alt": "مازدا CX-5 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1309526,
+          "sha256": "7afb50ba0968f6bc99bc34c1d9047018efa6ce8ea2595732219890f2c9051f3b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/08-a6-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-6-main.png",
+          "alt": "أودي A6 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1346079,
+          "sha256": "c13f99031694dc837216c6dfc5d2386d74d1d6ecdafed4b339ac8cc467b9bb24",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/09-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-9-interior.png",
+          "alt": "فولكس فاغن جيتا 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1492662,
+          "sha256": "d9fc47ca484b4e41cbd322846612c778e499b9fd62a42d51a29a6abae3f06ec9",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/10-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-11-main.png",
+          "alt": "تويوتا هايلاند 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1398950,
+          "sha256": "299f83b10321b2ea614e650f861085edbd4d48b476ad0e2b318fbe6dfea3eb44",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/11-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-12-side.png",
+          "alt": "هيونداي إلنترا 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1449469,
+          "sha256": "aac20da9b2ac627cfe314b6a26673368317d9a179cde01df8ffeda46027edae8",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/12-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-13-interior.png",
+          "alt": "كيا سبورتاج 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1528307,
+          "sha256": "09a14211e3b1cf5bd4c333739b2ac01c8344b140eff5f0e8956ef27540b294cb",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/13-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-15-main.png",
+          "alt": "نيسان ماكسيما 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1254337,
+          "sha256": "7f9c04e0114118b0763e0915a83adc79d25c6f3b7ac530b6bc4dfd0d701c8b23",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/car-motors/14-bmw-3-series-2024.png",
+          "source_url": "https://carmotors.pauladev.workers.dev/images/cars/car-16-side.png",
+          "alt": "BMW 3 Series 2024",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1630700,
+          "sha256": "38ff7b9805b6e34a5d84ddcf2027792dfdff0521d9a4c41487b46a647de26857",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied project label is 'Car Motors'; the visible customer-facing brand reads 'قاهرة موتورز' (Cairo/Qahira Motors). The host is pauladev.workers.dev, not a branded customer-facing domain.",
+        "The browser title is the generic 'Premium Landing Page - Modern & Elegant', rather than the displayed Arabic brand name.",
+        "The /#about navigation anchor was visited, but no separate about section or company history appeared in the page content.",
+        "Location/contact details are inconsistent: the page lists Giza, Egypt and a telephone link to +201000000000, while the contact section displays +966 50 000 0000 and +966 50 000 0001 and prices are denominated in SAR (ر.س). The listed emails use cairomotors.com.",
+        "Two inventory entries (Volkswagen Tiguan and Mazda 6) visibly point to /cars/20, so their distinct detail-route mapping is unclear.",
+        "Displayed search, filtering, booking, and inquiry controls were not functionally tested; no form was submitted. Statistics, review counts, stock, pricing, financing, warranty, and business claims are only page-visible assertions.",
+        "Supplied URL is labelled Car Motors, while prior/current visible branding may say Cairo Motors. Use the current on-page brand after review."
+      ]
+    },
+    {
+      "id": "shosha-phone",
+      "title": "Shosha Phone",
+      "url": "https://shoshaphone.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 3,
+      "visual_asset_count": 14,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/shosha-phone/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/09-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/10-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/shosha-phone/11-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://shoshaphone.pauladev.workers.dev/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/shosha-phone/01-website-photo.png",
+          "source_url": "https://shoshaphone.pauladev.workers.dev/hero-phone.png",
+          "alt": "هاتف ذكي حديث من شوشة فون",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1200441,
+          "sha256": "2e93bc36364cd18c164a4e1ca2f72467c72a5cd817800a97a58a445140fe1528",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/shosha-phone/02-website-photo.png",
+          "source_url": "https://shoshaphone.pauladev.workers.dev/repair.png",
+          "alt": "فني محترف يقوم بصيانة هاتف ذكي",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1459115,
+          "sha256": "37a121d3e45bc91ffa577abe8e710c0d18116b4c039978f6382124c2c523407e",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/shosha-phone/03-website-photo.png",
+          "source_url": "https://shoshaphone.pauladev.workers.dev/accessories.png",
+          "alt": "إكسسوارات هواتف أصلية من شوشة فون",
+          "width": 1024,
+          "height": 1024,
+          "format": "PNG",
+          "bytes": 1419467,
+          "sha256": "a60249f658f315675289bf8a176c1dd130db31a450a26f7eb97890f1c95c0410",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Only the supplied domain was inspected; Shosha Phone is the customer-facing name, while shoshaphone.pauladev.workers.dev is the hosting domain and ‘Shosha Phone’ is the provided portfolio-project label.",
+        "The site is a single long landing page with anchor navigation. No standalone catalog, individual product listing/detail, or other business pages were found in the visible site navigation.",
+        "Business experience, ratings, service quality, warranty, testimonials, and customer/device/satisfaction counts are claims displayed by the page, not independently validated facts.",
+        "The animated counters appeared as zeroes in the earliest extraction and later settled at 5,000+, 3,000+, 10+, and 98%; testimonial copy also changed between page views. Treat these as dynamic displayed content rather than stable, verified data.",
+        "The contact form was not submitted, and backend handling, delivery, or response guarantees were not tested. WhatsApp/telephone links were visible, but no external conversation or call was initiated.",
+        "A rendered homepage screenshot was initially blank, while later anchored screenshots rendered the page; section text remained extractable. Visual observations are based on the later rendered section screenshots."
+      ]
+    },
+    {
+      "id": "diwan-almaany",
+      "title": "Diwan Al Maany",
+      "url": "https://diwanalmaany.pauladev.workers.dev/",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 2,
+      "visual_asset_count": 13,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/diwan-almaany/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/09-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/10-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/diwan-almaany/11-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://diwanalmaany.pauladev.workers.dev/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/diwan-almaany/01-website-photo.jpg",
+          "source_url": "https://diwanalmaany.pauladev.workers.dev/assets/hero-office-DwzIC1UN.jpg",
+          "alt": "",
+          "width": 1920,
+          "height": 1280,
+          "format": "JPEG",
+          "bytes": 180476,
+          "sha256": "dce70ec2555b061cd8521771c7d0630613de9009feb34e7914aadea286af690f",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/diwan-almaany/02-gold-wax-seal-on-a-legal-document.jpg",
+          "source_url": "https://diwanalmaany.pauladev.workers.dev/assets/seal-DWDcBg_w.jpg",
+          "alt": "Gold wax seal on a legal document",
+          "width": 1024,
+          "height": 1280,
+          "format": "JPEG",
+          "bytes": 58112,
+          "sha256": "a9fd5ee2be475f0fec7e1a2504e198c374417b3f427b79e20aaa21ee0eb0659e",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied URL is a pauladev.workers.dev deployment domain; the visible company/service brand is Diwan Al Maany. The portfolio-project label supplied is also ‘Diwan Al Maany’ and is not itself the deployment domain.",
+        "The homepage’s numeric counters changed between captures (one view showed 25+, 44,766+, 131+, 93.1%; another showed 27+, 48,000+, 140+, 99.8%). Treat these as unstable displayed page counters, not reliable verified metrics.",
+        "Claims such as Ministry of Justice accreditation, ISO 27001 alignment, 27 offices, 24/48-hour turnaround, encryption, court acceptance, and testimonials are site copy only and were not independently validated.",
+        "Only a single long homepage with in-page anchor sections was found. The tested insight card did not open an article detail page; it led to the homepage root fragment.",
+        "No form was submitted, no login was attempted, and no backend processing or successful contact response was tested. The AR · EN control was not exercised."
+      ]
+    },
+    {
+      "id": "dhofar-sooq",
+      "title": "Dhofar Sooq",
+      "url": "https://www.dhofarsooq.com",
+      "status": "unavailable",
+      "screenshot_count": 0,
+      "original_site_image_count": 0,
+      "visual_asset_count": 0,
+      "has_more_than_10_visual_assets": false,
+      "screenshots": [],
+      "original_site_images": [],
+      "limitations": [
+        "The supplied URL failed to load with a browser connection-closed error.",
+        "The canonical non-www URL was retried and also failed with a connection-closed error.",
+        "No homepage content or same-site links were available to inspect; no features, identity, or service claims can be verified.",
+        "Dhofar Sooq is the supplied original portfolio-project label; the company/service name could not be confirmed. The domain is https://www.dhofarsooq.com.",
+        "Current browser capture status: blocked_or_error_page. Use only older verified information if separately attributed; do not label a stale image as current."
+      ]
+    },
+    {
+      "id": "wealth-makers",
+      "title": "Wealth Makers",
+      "url": "https://wealth-makers.co",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 1,
+      "visual_asset_count": 12,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/wealth-makers/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://wealth-makers.co/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://wealth-makers.co/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://wealth-makers.co/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/04-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://wealth-makers.co/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/05-page-desktop.jpg",
+          "url": "https://wealth-makers.co/blog.php?lang=%3C?php%20echo%20$lang;%20?%3E",
+          "label": "page المدونة",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/06-detail-section-desktop.jpg",
+          "url": "https://wealth-makers.co/blog.php?lang=%3C?php%20echo%20$lang;%20?%3E",
+          "label": "المدونة detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/07-page-desktop.jpg",
+          "url": "https://wealth-makers.co/contact.php?lang=%3C?php%20echo%20$lang;%20?%3E",
+          "label": "page اتصل بنا",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/08-detail-section-desktop.jpg",
+          "url": "https://wealth-makers.co/contact.php?lang=%3C?php%20echo%20$lang;%20?%3E",
+          "label": "اتصل بنا detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/09-page-desktop.jpg",
+          "url": "https://wealth-makers.co/?lang=ar",
+          "label": "page العربية",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/10-detail-section-desktop.jpg",
+          "url": "https://wealth-makers.co/?lang=ar",
+          "label": "العربية detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/wealth-makers/11-page-english-desktop.jpg",
+          "url": "https://wealth-makers.co/?lang=en",
+          "label": "page English",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/wealth-makers/01-website-photo.jpg",
+          "source_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "alt": "من نحن",
+          "width": 800,
+          "height": 450,
+          "format": "JPEG",
+          "bytes": 114467,
+          "sha256": "ec312a276b3b90d39fb5882f972200c3c1713b0a7f1be7063a9956b72fdb8cda",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The homepage’s visible service “Learn More” links all show a literal PHP-expression query string targeting the blog rather than distinct service pages; no service detail pages were verified.",
+        "The contact link clicked from the homepage navigated to a URL with the PHP expression percent-encoded in its lang parameter. The contact page itself rendered, but this is a visible routing/template inconsistency.",
+        "Contact form was not submitted; form delivery, validation, booking, and any backend capabilities are not verified.",
+        "Blog search control was not tested; no claim is made that it returns results.",
+        "The site is populated, not an empty placeholder, but homepage editorial copy and article dates are dated 2024; no current business status, credentials, performance figures, or actual investment outcomes were verified.",
+        "The supplied project label and visible company name are Wealth Makers; the supplied domain is wealth-makers.co. Arabic branding appears as صناع الثروة."
+      ]
+    },
+    {
+      "id": "roaa-gabreel",
+      "title": "Roaa Gabreel Law Firm",
+      "url": "https://roaa-gabreel.vercel.app",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 2,
+      "visual_asset_count": 13,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/roaa-gabreel/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/08-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/09-page-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/why-choose-us",
+          "label": "page لماذا نحن",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/10-detail-section-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/why-choose-us",
+          "label": "لماذا نحن detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/roaa-gabreel/11-page-desktop.jpg",
+          "url": "https://roaa-gabreel.vercel.app/about",
+          "label": "page من نحن",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/roaa-gabreel/01-website-photo.jpg",
+          "source_url": "https://roaa-gabreel.vercel.app/assets/Untitled%20design-BxV0TUpH.jpg",
+          "alt": "",
+          "width": 683,
+          "height": 799,
+          "format": "JPEG",
+          "bytes": 35044,
+          "sha256": "addce17dfbbfe1b51d62c4397ba5e917530929487a6448c54e15048cc8cbcee4",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/roaa-gabreel/02-website-photo.png",
+          "source_url": "https://roaa-gabreel.vercel.app/assets/__%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D8%A9_%D8%B1%D8%A4%D9%89_%D8%AC%D8%A8%D8%B1%D9%8A%D9%84_%D9%85%D9%84%D9%81_%D9%84%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9__page-0001-removebg-preview-DkXi_7Ha.png",
+          "alt": "",
+          "width": 660,
+          "height": 378,
+          "format": "PNG",
+          "bytes": 89011,
+          "sha256": "7c1be67118fdfbed3a28b1fde5efd0658b6abc21c400a75b146f522f46189ea6",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied portfolio-project label is “Roaa Gabreel”; it is not the domain name. The domain is roaa-gabreel.vercel.app, while the business is presented as a law and legal-consultations office.",
+        "The office name is not perfectly consistent in Arabic: the browser title says «رؤي جبريل للمحاماة», the hero says «رؤى جبريل للمحاماه والاستشارات القانونية», and About copy includes «رؤى جبريل خرم». Preserve/clarify naming rather than silently standardizing from this evidence.",
+        "The website's licensing and professional-membership statements are visible claims, not externally checked facts.",
+        "The legal-consultation service description is visibly cut off after «نحن نحرص على تزويدك بالمعلومة ال…» in extracted page content; avoid inventing the rest.",
+        "No standalone service-detail route was observed; service request links lead to the same WhatsApp address. No appointment, payment, client portal, or completed backend flow was demonstrated.",
+        "Contact form submission was not tested; its visible fields and button do not establish that sending works.",
+        "Blog route is reachable but empty. No portfolio/work showcase or products were seen."
+      ]
+    },
+    {
+      "id": "tmllak-dark",
+      "title": "Tmllak Dark",
+      "url": "https://tmllakdark.com",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 10,
+      "visual_asset_count": 21,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/tmllak-dark/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/07-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://tmllakdark.com/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/08-page-desktop.jpg",
+          "url": "https://tmllakdark.com/almdwnh",
+          "label": "page المدونة",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/09-detail-section-desktop.jpg",
+          "url": "https://tmllakdark.com/almdwnh",
+          "label": "المدونة detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/10-page-desktop.jpg",
+          "url": "https://tmllakdark.com/idhafh-aqar",
+          "label": "page إضافة عقار",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/tmllak-dark/11-detail-section-desktop.jpg",
+          "url": "https://tmllakdark.com/idhafh-aqar",
+          "label": "إضافة عقار detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/tmllak-dark/01-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/uuu-ossuoaopso3uo3-A0x1XDNbgMfJXqB5.jpg",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 229836,
+          "sha256": "a37bac51ba49afc0de75a11f4e0bea8e725b4f5bce8474a1e708beb737afaa0b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/02-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/3-m6LjO6ZzgzTK1kML.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 165313,
+          "sha256": "9437c545910140cac365ae48ca6ab8919d1b0667915ab2f3041845c2d98be0c6",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/03-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/1-Y4LxBqDKoBikkDV9.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 207910,
+          "sha256": "3d8c965182230089b1afaa5249014c0a22265c862501cdcbfc2b93882fff7937",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/04-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/2-Yg2qMDjB59CWy2Jx.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 126809,
+          "sha256": "e8e1156fbd22f89d849b0e672805a96c04483810a182aefccfa3d20c47c79dca",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/05-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/5-YZ9xzJZMB2IqWR2K.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 129474,
+          "sha256": "b54d8b9f4b1629f2524b5ade9d911302f144ff3921bc88d5818c6a0eaec29952",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/06-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/4-A1aB37LW0Eu5y2lO.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 146555,
+          "sha256": "4940a0e0fcbff7ba6ac2d79416397bf6e772637b6a8c391eda20e959bd127c36",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/07-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/mxBrP4ll9wu7NM3z/6-YZ9xzJEVaZT54oVQ.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "format": "JPEG",
+          "bytes": 203446,
+          "sha256": "c4eb059e3de83f9d049eee604fcbef31110666198abdc5e81e4e8b071b633171",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/08-website-photo.jpg",
+          "source_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=891,fit=crop/mxBrP4ll9wu7NM3z/pexels-freestockpro-7599735-YNqJRM36xnS88MjD.jpg",
+          "alt": "",
+          "width": 768,
+          "height": 891,
+          "format": "JPEG",
+          "bytes": 39282,
+          "sha256": "55bd3a1608fa21bab99d9a6ab8c09db9f799843d40f6612825b84d6fc6d0319b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/09-brown-wooden-framed-yellow-padded-chair.jpg",
+          "source_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=400&h=464",
+          "alt": "brown wooden framed yellow padded chair",
+          "width": 400,
+          "height": 464,
+          "format": "JPEG",
+          "bytes": 32567,
+          "sha256": "5d75ad699c9552ea3eeb2fe443fb068c87c98cce5f8cb6f78c64c13ab2d57da4",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/tmllak-dark/10-brown-wooden-framed-yellow-padded-chair.jpg",
+          "source_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=656&h=448",
+          "alt": "brown wooden framed yellow padded chair",
+          "width": 656,
+          "height": 448,
+          "format": "JPEG",
+          "bytes": 44679,
+          "sha256": "62379b76680b9f9247317b1de858bfb1e603632a7b0f10fc7a4128d9ec70b7cf",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The customer-facing business name is تملك دارك العقارية; ‘Tmllak Dark’ is the supplied original portfolio-project label, and tmllakdark.com is the domain. Do not treat them as interchangeable names.",
+        "The calculator is linked and described as comparing lenders, but the inspected page showed no calculator input fields, calculated amounts or comparison results; a functional calculator is not verified.",
+        "The exact /tlb-aqar route loads a request form, while its trailing-slash variant /tlb-aqar/ returned a Website Builder 404.",
+        "No browsable property listings or catalog were observed on the inspected pages. The ‘طلب عقار’ page is a request form, not a listing-results page.",
+        "The add-property page displayed promotional copy, but a working property-submission form was not confirmed in the visible extraction.",
+        "Forms were not submitted; no backend processing, saved requests, approvals or service outcomes were tested or established.",
+        "The add-property audience figure, support eligibility thresholds, financing comparisons, and point-of-sale approval timing are site claims only, not independently validated.",
+        "The homepage screenshot capture was blank during inspection; its page text was available, and the visual style was assessed from other successfully rendered same-site pages."
+      ]
+    },
+    {
+      "id": "nebras",
+      "title": "Nebras",
+      "url": "https://nebras.vercel.app",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 1,
+      "visual_asset_count": 12,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/nebras/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/04-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/05-page-desktop.jpg",
+          "url": "https://nebras.vercel.app/about",
+          "label": "page من نحن",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/06-detail-section-desktop.jpg",
+          "url": "https://nebras.vercel.app/about",
+          "label": "من نحن detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/07-page-desktop.jpg",
+          "url": "https://nebras.vercel.app/blog",
+          "label": "page المدونة",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/08-page-desktop.jpg",
+          "url": "https://nebras.vercel.app/contact",
+          "label": "page تواصل معنا",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/09-page-desktop.jpg",
+          "url": "https://nebras.vercel.app/finance-contact",
+          "label": "page احصل علي تمويلك",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/nebras/10-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/nebras/11-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://nebras.vercel.app/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/nebras/01-website-photo.webp",
+          "source_url": "https://nebras.vercel.app/assets/Untitled_design__5_-removebg-preview-By3sD56-.png",
+          "alt": "",
+          "width": 500,
+          "height": 500,
+          "format": "WEBP",
+          "bytes": 69014,
+          "sha256": "02fe8c6e8c8c7f2aea3d0513a5f266a1c6fc9fc4cc4bf60da00b2f00e02d5c90",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied URL is a Vercel-hosted site and no separate original portfolio-project label was visible; the browser title and visible Arabic copy identify the business as Nebras Real Estate Services.",
+        "Do not infer form delivery, financing approval, calculators, quote generation, appointment scheduling, or backend behavior from visible fields and promotional copy; forms were not submitted.",
+        "The service cards show titles and imagery but provide no detailed terms, eligibility, pricing, or process on the inspected pages.",
+        "On the pages inspected, footer labels for terms and privacy linked to the current page route (for example, /contact on the contact page), rather than distinct policy pages; no separate policy content was verified.",
+        "Homepage copy mentions buying/selling/renting while company descriptions emphasize financing and mortgage services; reported here as site copy rather than reconciling the differing emphasis.",
+        "The site shows a 2024 founding statement while some blog cards display older 2023 dates; article dates/content were not independently verified."
+      ]
+    },
+    {
+      "id": "deep-insight",
+      "title": "Deep Insight",
+      "url": "https://deepinsight.om",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 2,
+      "visual_asset_count": 13,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/deep-insight/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/07-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://deepinsight.om/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/08-page-about-us-desktop.jpg",
+          "url": "https://deepinsight.om/about",
+          "label": "page About Us",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/09-about-us-detail-section-desktop.jpg",
+          "url": "https://deepinsight.om/about",
+          "label": "About Us detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/10-page-our-values-desktop.jpg",
+          "url": "https://deepinsight.om/values",
+          "label": "page Our Values",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/deep-insight/11-our-values-detail-section-desktop.jpg",
+          "url": "https://deepinsight.om/values",
+          "label": "Our Values detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/deep-insight/01-logo.jpg",
+          "source_url": "https://deepinsight.om/logo.jpg",
+          "alt": "logo",
+          "width": 2500,
+          "height": 2084,
+          "format": "JPEG",
+          "bytes": 85585,
+          "sha256": "535ec67d37583ff914ff74a8c98d15104639e27106d374268a475fbab23f3c33",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/deep-insight/02-deep-insight.png",
+          "source_url": "https://deepinsight.om/logo-removebg.png",
+          "alt": "DEEP INSIGHT",
+          "width": 547,
+          "height": 456,
+          "format": "PNG",
+          "bytes": 29069,
+          "sha256": "453dfa61e25d24f0ebb5351d46947b375e9d613b74400cf15fec1fde1239143b",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The site was reachable and its page text was extractable, but initial captures of some pages were blank or faded; wait for rendering and verify the actual screenshot before treating it as a visual reference.",
+        "“View Service” appears as plain text rather than a clickable link in the captured homepage DOM; no service-detail pages were verified.",
+        "Software, AI, ERP, marketplace, API, and other technology offerings are listed as capabilities; no live product/demo was inspected.",
+        "Contact form submission was not attempted; no backend handling, delivery, or confirmation behavior is established.",
+        "No portfolio/case-study catalog was found among the visited routes. The story's unnamed investor anecdote is only site copy and is not independently verified.",
+        "The www host redirected to the supplied non-www URL; the business name is Deep Insight S.P.C., while the supplied site domain is deepinsight.om and the portfolio-project label is Deep Insight."
+      ]
+    },
+    {
+      "id": "kayan-omakan",
+      "title": "Kayan & Makan",
+      "url": "https://kayanomakan.com",
+      "status": "partially reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 3,
+      "visual_asset_count": 14,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/kayan-omakan/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://kayanomakan.com/",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/09-page-desktop.jpg",
+          "url": "https://kayanomakan.com/about",
+          "label": "page من نحن",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/10-detail-section-desktop.jpg",
+          "url": "https://kayanomakan.com/about",
+          "label": "من نحن detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/kayan-omakan/11-page-desktop.jpg",
+          "url": "https://kayanomakan.com/services",
+          "label": "page الخدمات",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/kayan-omakan/01-website-photo.webp",
+          "source_url": "https://kayanomakan.com/assets/image4-D2KKfr9g.jpg",
+          "alt": "",
+          "width": 1280,
+          "height": 960,
+          "format": "WEBP",
+          "bytes": 62598,
+          "sha256": "d6214ab5672313aac38bd8dbe07e8536170ffb9def2729810e4891f9cc304856",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/kayan-omakan/02-website-photo.webp",
+          "source_url": "https://kayanomakan.com/assets/Logo4-BNU4BBux.jpg",
+          "alt": "",
+          "width": 1413,
+          "height": 636,
+          "format": "WEBP",
+          "bytes": 23652,
+          "sha256": "6886dc133ff82ff7f3d4ec0f702a558b30880efebef913dc53462b554a0dab07",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/kayan-omakan/03-website-photo.webp",
+          "source_url": "https://kayanomakan.com/assets/english-CM2GPNYu.png",
+          "alt": "",
+          "width": 512,
+          "height": 512,
+          "format": "WEBP",
+          "bytes": 13660,
+          "sha256": "fc0265dca36f3baa1846e033df4d22467729022d9fe3d24e49257039c727d24c",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Site identity differs from supplied project label and domain: the supplied project label is ‘Kayan Omakan’, the domain is kayanomakan.com, while the website title/Arabic copy identifies ‘Kayan & Makan’ / شركة كيان ومكان للمقاولات.",
+        "The site is primarily Arabic; an English-language control is visible, but an English rendering was not verified.",
+        "The /services and /contact routes were reachable as URLs but showed no page-specific content, only shared navigation/footer. The linked /Services/0 detail route was similarly empty.",
+        "The homepage rendered after a delay: an early capture showed a loading state; a subsequent browser view showed the full page content. Avoid mistaking the transient loading state for the page’s final content.",
+        "The footer’s Projects, Services, About, and Contact links were href # in the captured homepage HTML; no working project/portfolio route was verified.",
+        "No forms were submitted, and no login, backend processing, project portfolio, results, metrics, or operational outcomes were verified."
+      ]
+    },
+    {
+      "id": "excited",
+      "title": "Excited.sa",
+      "url": "https://excited.sa",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 3,
+      "visual_asset_count": 14,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/excited/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://excited.sa/",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/excited/09-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://excited.sa/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/excited/10-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://excited.sa/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/excited/11-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://excited.sa/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/excited/01-image.webp",
+          "source_url": "https://excited.sa/dyafa.webp",
+          "alt": "image",
+          "width": 600,
+          "height": 444,
+          "format": "WEBP",
+          "bytes": 18300,
+          "sha256": "976a891737f1e9f30f85c4e01fa1861b87bdce2197ac2bc07afd9f951785d4ee",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/excited/02-image.webp",
+          "source_url": "https://excited.sa/hshood.webp",
+          "alt": "image",
+          "width": 600,
+          "height": 400,
+          "format": "WEBP",
+          "bytes": 11852,
+          "sha256": "72f816e905a527f3106480853c1645c60aa99b18182be31cb3dc2f87ac3731a4",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/excited/03-image.webp",
+          "source_url": "https://excited.sa/design-locations.webp",
+          "alt": "image",
+          "width": 600,
+          "height": 338,
+          "format": "WEBP",
+          "bytes": 15774,
+          "sha256": "9080c2bb0498f74f84e36eacf929eff69b2c5472058f00acbd30245ff7d02004",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The supplied website is reachable and its title/branding match the Excited project label; no site/domain mismatch was apparent.",
+        "All inspected substantive content is on the homepage. No dedicated service, product, about, portfolio, catalog or project-detail route was visited or verified.",
+        "The Company Profile control is visible, but no profile download or destination was confirmed.",
+        "The form was not submitted; its backend, delivery and validation behavior are unknown.",
+        "Technology and production capabilities are described in copy, but no working event app, analytics, AI feature, production facility, customer result, portfolio example or client evidence was demonstrated.",
+        "Page copy is primarily Arabic; English is limited to the brand/title, Company Profile label and related interface text."
+      ]
+    },
+    {
+      "id": "taxi-lbc-kuwait",
+      "title": "Taxi LBC Kuwait",
+      "url": "https://taxilbckuwait.com",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 1,
+      "visual_asset_count": 12,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/02-page-vip-desktop.jpg",
+          "url": "https://taxilbckuwait.com/vip",
+          "label": "page VIP",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/03-page-desktop.jpg",
+          "url": "https://taxilbckuwait.com/taxi-kuwait",
+          "label": "page منطقة الكويت",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/04-page-desktop.jpg",
+          "url": "https://taxilbckuwait.com/taxi-aladan",
+          "label": "page منطقة العدان",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/05-page-desktop.jpg",
+          "url": "https://taxilbckuwait.com/taxi-almusayel",
+          "label": "page منطقة المسايل",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/06-page-desktop.jpg",
+          "url": "https://taxilbckuwait.com/taxi-mushrif",
+          "label": "page منطقة مشرف",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/07-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/08-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/09-section-site-element.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "تاكسي صباح السالم يرحب بيكم!|",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/10-section-site-element.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "من نحن؟",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 389
+        },
+        {
+          "file": "assets/screenshots/taxi-lbc-kuwait/11-section-article.jpg",
+          "url": "https://taxilbckuwait.com/",
+          "label": "ARTICLE",
+          "viewport": "desktop-element-crop",
+          "width": 1368,
+          "height": 202
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/taxi-lbc-kuwait/01-taxi.jpg",
+          "source_url": "https://taxilbckuwait.com/_next/image?url=%2Fimages%2Fhero.jpg&w=640&q=75",
+          "alt": "Taxi",
+          "width": 640,
+          "height": 359,
+          "format": "JPEG",
+          "bytes": 54428,
+          "sha256": "c0d195be9479576e1a189b2cb96d4667aadbf5144c778df60aac8c460d2d1872",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The site is Arabic-first; the findings translate visible labels and copy for handoff.",
+        "The visible booking path is contact-oriented (phone/WhatsApp); no online booking workflow, fare calculator, or fare table was observed.",
+        "The contact form is visible, but it was not submitted; successful delivery, validation, or any backend function is unknown.",
+        "Claims including 24-hour availability, competitive prices, driver qualifications, vehicle condition, and service quality are site statements and were not independently verified.",
+        "Testimonials are displayed as positive named reviews with occupations, but their provenance was not checked.",
+        "Some /taxi-kuwait driver copy mentions service in Al-Shuhada despite the page being for Kuwait area; treat this as potentially reused generic text, not a verified route-specific detail.",
+        "No portfolio/project showcase or catalog was observed; this is a customer-facing taxi service website."
+      ]
+    },
+    {
+      "id": "second-coast",
+      "title": "Second Coast Contracting",
+      "url": "https://secondcoast.netlify.app",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 14,
+      "visual_asset_count": 25,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/second-coast/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/06-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/07-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/second-coast/08-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/second-coast/09-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/10-section-site-element.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "مؤسسة الساحل الثاني للمقاولات العامة",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/second-coast/11-section-site-element.jpg",
+          "url": "https://secondcoast.netlify.app/",
+          "label": "من نحن؟",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 1448
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/second-coast/01-taxi.avif",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fhero2.webp&w=640&q=75",
+          "alt": "Taxi",
+          "width": 626,
+          "height": 470,
+          "format": "AVIF",
+          "bytes": 44922,
+          "sha256": "9fbbb20556ce424e0fdf0d7ac208c85dea011e07c48b7f533387171c91c0c335",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/02-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F1.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 900,
+          "height": 1600,
+          "format": "JPEG",
+          "bytes": 317280,
+          "sha256": "d301aecbf6e9691fea962eec413da4993e5454a76894cf8cb070fbf8f399f30c",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/03-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F2.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 900,
+          "height": 1600,
+          "format": "JPEG",
+          "bytes": 325655,
+          "sha256": "ab937d9a65150e8027187de37d993d31c4fb7f7b9467da70b469d6374ddd071b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/04-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F3.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 900,
+          "height": 1600,
+          "format": "JPEG",
+          "bytes": 336613,
+          "sha256": "3868ca7eb84e7a546172cf79fb63da921a37daa8795bfca7743a9a84cbcbeee0",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/05-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F4.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 520,
+          "height": 520,
+          "format": "JPEG",
+          "bytes": 59493,
+          "sha256": "8c6be8e15ab57a1328e660e2791618448422c5b153d09557ca94c7a7514a0a6d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/06-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F5.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 1024,
+          "height": 768,
+          "format": "JPEG",
+          "bytes": 71629,
+          "sha256": "09f4734d6ba484dc7d69488920fe9d8bfcf8bf0a7bd7c0dfbf68f21610d61734",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/07-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F6.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 960,
+          "height": 1280,
+          "format": "JPEG",
+          "bytes": 190640,
+          "sha256": "39817c2c63b2a25252abb73af6557145616ebc345ae4042f36fa3074392bb781",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/08-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F7.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 1080,
+          "height": 810,
+          "format": "JPEG",
+          "bytes": 129994,
+          "sha256": "f43aba23fcbe001d388c7d6fecca2e23c20aff60f6b263dec09b47ceb4e28819",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/09-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F8.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 1080,
+          "height": 810,
+          "format": "JPEG",
+          "bytes": 172723,
+          "sha256": "760834f1636725c8cdc033b26955eade35fec4a09b6ceb10fe2550b68ba4112b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/10-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F9.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 1080,
+          "height": 810,
+          "format": "JPEG",
+          "bytes": 133793,
+          "sha256": "45e0124e3120bb322b5f07ffb1cb745b4faaa1f5bba90a751aeff9dfc6640e37",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/11-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F10.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 900,
+          "height": 1600,
+          "format": "JPEG",
+          "bytes": 276440,
+          "sha256": "0d23650fa7c4be0a8ba4c86bf3f7af10248550874b42758065589d2acf59a673",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/12-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F11.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 712,
+          "height": 502,
+          "format": "JPEG",
+          "bytes": 20704,
+          "sha256": "6d91fbf3cf2467c0ae2f8f5f9dda3ea1acb198914137db5ed9b99fcfe8ec7d7b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/13-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F12.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 900,
+          "height": 1600,
+          "format": "JPEG",
+          "bytes": 306333,
+          "sha256": "0fc63b5e365fd4ff1f34ba439dae449e63244f05019739944c7ddcdd5f3e7a31",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/second-coast/14-image.jpg",
+          "source_url": "https://secondcoast.netlify.app/_next/image?url=%2Fimages%2Fproducts%2F13.jpeg&w=1080&q=75",
+          "alt": "Image",
+          "width": 720,
+          "height": 1280,
+          "format": "JPEG",
+          "bytes": 80297,
+          "sha256": "a9ca1e794b46c0b83fe955bdb330ccda7be840e13c4fb7742352a0950e9bc7dd",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The only inspected route is the homepage; no separate detail/catalog/contact pages were found or verified.",
+        "Gallery photos lack individual captions, prices, and specifications, so the exact product represented by each photo cannot be confidently mapped to the text list.",
+        "The Arabic contact list displays 0509536368, 0505526817, and 0545840888; the first displayed number appears linked to tel:+9660545840888, which instead corresponds to the third displayed number. Verify before reproducing that link.",
+        "The hero image appears visually to depict a construction skyline/cranes, while its extracted image alt text is “Taxi.”",
+        "No form, account/login, order submission, or backend functionality was observed; none was tested."
+      ]
+    },
+    {
+      "id": "vieu-arts",
+      "title": "Vieu Art",
+      "url": "https://vieu-arts.vercel.app",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 5,
+      "visual_asset_count": 16,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/vieu-arts/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/07-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/08-page-about-us-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/about",
+          "label": "page About Us",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/09-about-us-detail-section-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/about",
+          "label": "About Us detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/10-page-our-vision-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/our-vision",
+          "label": "page Our Vision",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/vieu-arts/11-page-services-desktop.jpg",
+          "url": "https://vieu-arts.vercel.app/services",
+          "label": "page Services",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/vieu-arts/01-image.jpg",
+          "source_url": "https://vieu-arts.vercel.app/assets/image-C7vdoRd4.jpg",
+          "alt": "image",
+          "width": 6255,
+          "height": 4170,
+          "format": "JPEG",
+          "bytes": 1442927,
+          "sha256": "dde593dad4048768d32dd2ab02d1bab4454d3fdf93ca73f1363ed3fad3251022",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/vieu-arts/02-website-photo.png",
+          "source_url": "https://vieu-arts.vercel.app/assets/vecteezy_saudi-arabia-flat-rounded-flag-icon-with-transparent-background_16328950-ySNAuOyv.png",
+          "alt": "",
+          "width": 3500,
+          "height": 3500,
+          "format": "PNG",
+          "bytes": 160250,
+          "sha256": "035c6f0cbab54bf5eb20906ea2aaf21b941ea6fe05fe4401f0bcb4f028408328",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/vieu-arts/03-image.jpg",
+          "source_url": "https://vieu-arts.vercel.app/assets/image-DzflNlno.jpg",
+          "alt": "image",
+          "width": 5184,
+          "height": 3456,
+          "format": "JPEG",
+          "bytes": 999369,
+          "sha256": "12bd88c9be5f69b06b65b2a5f75e4f12c2e2e998961a40aebdf02e7025e68ec3",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/vieu-arts/04-image.jpg",
+          "source_url": "https://vieu-arts.vercel.app/assets/image-ff-luzuE.jpg",
+          "alt": "image",
+          "width": 4288,
+          "height": 2848,
+          "format": "JPEG",
+          "bytes": 321640,
+          "sha256": "7ccf525bd73566ddff5bd71752ea45c554a71060fb14d16a32afc36858df21dd",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/vieu-arts/05-website-photo.png",
+          "source_url": "https://vieu-arts.vercel.app/assets/download%20(13)-BKyoB7JI.png",
+          "alt": "",
+          "width": 739,
+          "height": 660,
+          "format": "PNG",
+          "bytes": 199318,
+          "sha256": "58efe15182190e819a636f4bd6715c7980fea3acc93afbcf8f6881c9897b9169",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Name variants differ: supplied project label is ‘Vieu Arts’; page title is ‘Vieu Art’; visible company copy uses ‘VIEU ART’. The domain is the supplied Vercel URL, not a separate company name.",
+        "No separate product catalog, individual service-detail pages, or project/case-study portfolio was observed on the routes inspected; the ‘success story’ language is promotional homepage copy.",
+        "The displayed ‘more than 500 clients’ and ‘more than 10 years’ are unverified marketing claims visible on the site, not substantiated results.",
+        "The contact page exposes a form but no direct email address or phone number in the extracted visible content. Submission behavior/backend was not tested.",
+        "The Arabic option and social-style icons are visible, but their destination or behavior was not verified."
+      ]
+    },
+    {
+      "id": "dr-aldoghaither-law-firm",
+      "title": "Dr. Al-Doghaither Law Firm",
+      "url": "https://dr-aldoghaitherlawfirm.com",
+      "status": "reachable",
+      "screenshot_count": 11,
+      "original_site_image_count": 14,
+      "visual_asset_count": 25,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/02-homepage-section-at-scroll-820px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 820px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/03-homepage-section-at-scroll-1640px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 1640px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/04-homepage-section-at-scroll-2460px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 2460px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/05-homepage-section-at-scroll-3280px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 3280px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/06-homepage-section-at-scroll-4100px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 4100px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/07-homepage-section-at-scroll-4920px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 4920px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/08-homepage-section-at-scroll-5740px-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/",
+          "label": "homepage section at scroll 5740px",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/09-page-english-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/en/asd-law-firm/",
+          "label": "page English",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/10-english-detail-section-desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/en/asd-law-firm/",
+          "label": "English detail section",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/dr-aldoghaither-law-firm/11-page-d8-b4-d8-b1-d9-83-d8-a9-d8-a7-d9-84-d8--desktop.jpg",
+          "url": "https://dr-aldoghaitherlawfirm.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%af%d8%ba%d9%8a%d8%ab%d8%b1-%d8%aa%d8%af%d8%b4%d9%91%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac/",
+          "label": "page %d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%af%d8%ba%d9%8a%d8%ab%d8%b1-%d8%aa%d8%af%d8%b4%d9%91%d9%86-%d9%87%d9%88%d9%8a%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/01-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/asd-visual-identity-launch-v2.png",
+          "alt": "تدشين الهوية البصرية الجديدة لشركة الدغيثر للمحاماة",
+          "width": 1448,
+          "height": 1086,
+          "format": "PNG",
+          "bytes": 1930991,
+          "sha256": "248197c12fd705e5b860d4c3ac901b50df48914142bed92da8b2e7375c2b09e7",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/02-website-photo.jpg",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/8D6C30F3-7488-4007-B16D-1376459F78A8.jpg",
+          "alt": "شعار مؤسسة الملك عبدالعزيز ورجاله للموهبة والإبداع",
+          "width": 690,
+          "height": 644,
+          "format": "JPEG",
+          "bytes": 48670,
+          "sha256": "05263c1e1c2765d81450b3fa7b38e7cb3182f71feadad3490abc7bf9fce5994b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/03-stc.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images6.png",
+          "alt": "شعار stc",
+          "width": 554,
+          "height": 554,
+          "format": "PNG",
+          "bytes": 10201,
+          "sha256": "f5f4161d0c17ea720c2e0648fe94b67e58a430b26cb57b1abe9713ba1edffd8d",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/04-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images20260914-042044.png",
+          "alt": "شعار لدن للاستثمار",
+          "width": 554,
+          "height": 554,
+          "format": "PNG",
+          "bytes": 10692,
+          "sha256": "b159dea1eae191c38c6126322a41b58f4ac00e268458da6bc5e2b700c7aa9c97",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/05-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images2.png",
+          "alt": "شعار مؤسسة سليمان الراجحي الخيرية",
+          "width": 572,
+          "height": 535,
+          "format": "PNG",
+          "bytes": 33251,
+          "sha256": "94d3f7aa386fc7c78f4dc8a484644a8a292f2c18609e3d5740eb0a6a05a3400c",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/06-tmc.jpg",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images20260914-041444.jpg",
+          "alt": "شعار TMC",
+          "width": 545,
+          "height": 527,
+          "format": "JPEG",
+          "bytes": 29336,
+          "sha256": "e4a5cc1d75edcf38f630aa962c828956be9ffd0a62c86794e6fcf6aec9f83b47",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/07-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images9.png",
+          "alt": "شعار مصرف الإنماء",
+          "width": 500,
+          "height": 500,
+          "format": "PNG",
+          "bytes": 5964,
+          "sha256": "575874939500f4fa1854ea21e987bbd8860fd359ec9f7ab1124841fe1871b5f4",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/08-website-photo.jpg",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images20260914-042014.jpg",
+          "alt": "شعار شركة آفاق صالح المحدودة",
+          "width": 500,
+          "height": 500,
+          "format": "JPEG",
+          "bytes": 26082,
+          "sha256": "d0d6e44607b0503d97cad3fce2a622dcee2bcfee9156623e27ab1de57d10fdbf",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/09-website-photo.jpg",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images20260914-041844.jpg",
+          "alt": "شعار ديوان",
+          "width": 625,
+          "height": 490,
+          "format": "JPEG",
+          "bytes": 20390,
+          "sha256": "88378bf08b618c83031ae03eb1ea308c1b015186a95a315d3dae0f272e3b3660",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/10-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/asd-logo-navy.png",
+          "alt": "شركة الدغيثر للمحاماة والاستشارات القانونية",
+          "width": 720,
+          "height": 463,
+          "format": "PNG",
+          "bytes": 168574,
+          "sha256": "8416ce1ccf50b4ed310034f03f2cfbab00f11f55242feffba9fe833ec6a0fbae",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/11-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images.png",
+          "alt": "شعار مجموعة العبيكان للاستثمار",
+          "width": 447,
+          "height": 447,
+          "format": "PNG",
+          "bytes": 16097,
+          "sha256": "c600a307ed0b6d989ef9bcb16a3637f0949ba918004acb00a40d2d5450ffe8fb",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/12-website-photo.jpg",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images1.jpg",
+          "alt": "شعار صروح للتطوير",
+          "width": 447,
+          "height": 447,
+          "format": "JPEG",
+          "bytes": 11642,
+          "sha256": "3043acd1b8319c34e656be40ed69e261ec245bd43d689e96de6f9079d33838b6",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/13-drones-crafters.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images20260914-041713.png",
+          "alt": "شعار Drones Crafters",
+          "width": 447,
+          "height": 447,
+          "format": "PNG",
+          "bytes": 5905,
+          "sha256": "260db5ad6e050f03f188a023154feed1501eb2ad8747f6af66d0ff0688a8e7e0",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/dr-aldoghaither-law-firm/14-website-photo.png",
+          "source_url": "https://dr-aldoghaitherlawfirm.com/wp-content/uploads/2026/09/images5.png",
+          "alt": "شعار وزارة الصحة",
+          "width": 467,
+          "height": 428,
+          "format": "PNG",
+          "bytes": 14616,
+          "sha256": "c05d3ffa8a4001a12cb84d25a4d3a6c6926f305280dc5aae7ae234698974196e",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "The original portfolio-project label is ‘Dr. Al-Doghaither Law Firm’; this is distinct from the supplied domain dr-aldoghaitherlawfirm.com and from the customer-facing firm name شركة الدغيثر للمحاماة والاستشارات القانونية / ASD Law Firm.",
+        "The homepage’s animated counters varied between captures (e.g., 2,150 versus 2,152 cases; 10,500 versus 10,506 hearings; displayed business/case value also varied). Do not treat a captured counter as stable or independently verified.",
+        "Service-card details appear in an on-page modal, not as separate detail-page routes in the routes inspected.",
+        "AI assistant submit, consultation submission, testimonials interaction and other transactional behavior were not tested; do not claim successful outcomes or backend behavior.",
+        "Client portal is linked to a separate external host (lomplus.drasdlawfirm.xyz/login), but it was not visited; functionality and access requirements are unverified.",
+        "The English route was detected by the browser with English labels, but its subsequent screenshot/view attempt showed about:blank; only the detected navigation controls are confirmed, not its full page appearance/content.",
+        "The address, client names/logos, credentials and performance counters are statements shown by the firm’s site, not independently validated in this inspection."
+      ]
+    },
+    {
+      "id": "graduation-project-henna",
+      "title": "BrainWave — Graduation Project",
+      "url": "https://graduation-project-henna.vercel.app",
+      "status": "mismatch",
+      "screenshot_count": 11,
+      "original_site_image_count": 0,
+      "visual_asset_count": 11,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/graduation-project-henna/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://graduation-project-henna.vercel.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/02-page-create-a-mind-map-desktop.jpg",
+          "url": "https://graduation-project-henna.vercel.app/login",
+          "label": "page Create a mind map",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/03-page-blogs-desktop.jpg",
+          "url": "https://graduation-project-henna.vercel.app/blogs",
+          "label": "page Blogs",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/04-page-login-desktop.jpg",
+          "url": "https://graduation-project-henna.vercel.app/login",
+          "label": "page Login",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/05-page-sign-up-desktop.jpg",
+          "url": "https://graduation-project-henna.vercel.app/register",
+          "label": "page Sign up",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/06-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://graduation-project-henna.vercel.app/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/07-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://graduation-project-henna.vercel.app/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/08-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://graduation-project-henna.vercel.app/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/09-mobile-blogs-list.jpg",
+          "url": "https://graduation-project-henna.vercel.app/blogs",
+          "label": "mobile blogs list",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/10-mobile-login-form.jpg",
+          "url": "https://graduation-project-henna.vercel.app/login",
+          "label": "mobile login form",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/graduation-project-henna/11-mobile-registration-form.jpg",
+          "url": "https://graduation-project-henna.vercel.app/register",
+          "label": "mobile registration form",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        }
+      ],
+      "original_site_images": [],
+      "limitations": [
+        "The site was reachable, but its visible identity is BrainWave, not Henna; the supplied project label and domain do not match the on-page brand.",
+        "The Blogs page showed no visible blog entries; do not infer that published content exists.",
+        "Mind-map creation, blog creation, and the /user route led to login; their authenticated screens and any underlying behavior could not be verified.",
+        "No forms were submitted and no account was created or used.",
+        "Collaboration and other capabilities appear in marketing copy only and were not operationally verified.",
+        "Page title remains the generic ‘Vite + React.’",
+        "Supplied project label mentions Henna, but the linked page appears to be a BrainWave mind-map/blog experience. Confirm project name and attribution."
+      ]
+    },
+    {
+      "id": "labense-taste",
+      "title": "Labense Taste",
+      "url": "https://labense-taste.vercel.app",
+      "status": "reachable",
+      "screenshot_count": 9,
+      "original_site_image_count": 3,
+      "visual_asset_count": 12,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/labense-taste/01-home-hero-and-top-navigation-desktop.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "home hero and top navigation",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/labense-taste/02-homepage-contact-and-footer-desktop.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "homepage contact and footer",
+          "viewport": "desktop",
+          "width": 1440,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/labense-taste/03-responsive-mobile-home-mobile-390.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "responsive mobile home",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/labense-taste/04-responsive-mobile-content-section-mobile-390.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "responsive mobile content section",
+          "viewport": "mobile-390",
+          "width": 390,
+          "height": 844
+        },
+        {
+          "file": "assets/screenshots/labense-taste/05-responsive-tablet-home-tablet-820.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "responsive tablet home",
+          "viewport": "tablet-820",
+          "width": 820,
+          "height": 1000
+        },
+        {
+          "file": "assets/screenshots/labense-taste/06-section-site-element.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "القائمة",
+          "viewport": "desktop-element-crop",
+          "width": 1440,
+          "height": 842
+        },
+        {
+          "file": "assets/screenshots/labense-taste/07-image-element-site-image-3.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "Site image 3",
+          "viewport": "desktop-element-crop",
+          "width": 500,
+          "height": 300
+        },
+        {
+          "file": "assets/screenshots/labense-taste/08-image-element-site-image-4.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "Site image 4",
+          "viewport": "desktop-element-crop",
+          "width": 500,
+          "height": 300
+        },
+        {
+          "file": "assets/screenshots/labense-taste/09-image-element-site-image-2.jpg",
+          "url": "https://labense-taste.vercel.app/",
+          "label": "Site image 2",
+          "viewport": "desktop-element-crop",
+          "width": 300,
+          "height": 313
+        }
+      ],
+      "original_site_images": [
+        {
+          "file": "assets/site-media/labense-taste/01-website-photo.png",
+          "source_url": "https://labense-taste.vercel.app/Assets/6d612b61-57d1-418b-a18a-5f597768af24-removebg-preview.png",
+          "alt": "",
+          "width": 474,
+          "height": 500,
+          "format": "PNG",
+          "bytes": 142708,
+          "sha256": "cd16418ca6e46c990fb8d02f0b4ced370286c5ca3c7e23e3d991c4081d0a9e0b",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/labense-taste/02-menu-image-1.jfif",
+          "source_url": "https://labense-taste.vercel.app/Assets/943628df-f328-49ae-ad62-ddf30d9b68f9.jfif",
+          "alt": "No alt text is supplied by the website; menu image.",
+          "width": 1600,
+          "height": 1282,
+          "format": "JPEG",
+          "bytes": 277560,
+          "sha256": "279b1c6e009ca5d37fa8d0355fe574a57cf6f42fe484ddb8a2da92515c6a39ca",
+          "type": "original website-hosted image; not a screenshot"
+        },
+        {
+          "file": "assets/site-media/labense-taste/03-menu-image-2.jfif",
+          "source_url": "https://labense-taste.vercel.app/Assets/eea99678-cb19-4bb7-a6c3-b7f9389dd931.jfif",
+          "alt": "No alt text is supplied by the website; menu image.",
+          "width": 1600,
+          "height": 1200,
+          "format": "JPEG",
+          "bytes": 275897,
+          "sha256": "7194e6627efa0aa66449878c69a54227e2f8de5bf46bac1684bb0e480e174a49",
+          "type": "original website-hosted image; not a screenshot"
+        }
+      ],
+      "limitations": [
+        "Only the supplied Vercel site and its same-page anchors were inspected; no separate service, product, about, or portfolio page was linked or visited.",
+        "The page shows contact links, not a visible checkout, reservation, or submitted-order flow; no forms were submitted.",
+        "The linked WhatsApp and Instagram destinations were not visited; their behavior and account contents were not verified.",
+        "No dish prices, location, operating hours, or business details beyond the visible menu and contact prompt were found in the inspected content.",
+        "There is a visible naming/spelling variation: the user’s original project label is ‘Labense Taste,’ the document title is ‘labenese taste,’ and the Arabic logo reads الذوق اللبناني. The supplied domain is labense-taste.vercel.app."
+      ]
+    },
+    {
+      "id": "smart-dental-system",
+      "title": "ONE",
+      "url": "https://sda-safynazibrahims-projects.vercel.app/dashboard/homeDashboard",
+      "status": "authenticated-review-and-user-supplied-mobile-captures",
+      "screenshot_count": 33,
+      "original_site_image_count": 0,
+      "visual_asset_count": 34,
+      "has_more_than_10_visual_assets": true,
+      "screenshots": [
+        {
+          "file": "assets/screenshots/smart-dental-system/02-dashboard-overview.jpeg",
+          "label": "Mobile dashboard overview and quick access",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.18 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/01-clinic-navigation.jpeg",
+          "label": "Clinic navigation and management sections",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.17 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/03-appointment-reschedule.jpeg",
+          "label": "Appointment rescheduling confirmation",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.19 AM (2).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/04-edit-case-form.jpeg",
+          "label": "Clinical case form and image type",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.19 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/05-case-summary-medications.jpeg",
+          "label": "Case summary with medication selections",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.20 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/06-services-list.jpeg",
+          "label": "Dental services list",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.20 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/07-case-information-images.jpeg",
+          "label": "Case information and dental image gallery",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.21 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/08-case-summary-services.jpeg",
+          "label": "Case summary with selected services",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.21 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/09-dental-case-view.jpeg",
+          "label": "Dental case visualization",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.22 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/10-tongue-case-view.jpeg",
+          "label": "Oral examination visualization",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.23 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/11-add-clinic.jpeg",
+          "label": "Add clinic form",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.24 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/12-dental-chart.jpeg",
+          "label": "Dental chart view",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.24 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/13-subscription-packages.jpeg",
+          "label": "Subscription package options",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.26 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/14-clinic-management.jpeg",
+          "label": "Clinic management list",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.27 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/15-lateral-profile.jpeg",
+          "label": "Lateral profile analysis view",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.28 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/16-treatment-analysis.jpeg",
+          "label": "Treatment analysis report",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.29 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/17-account-information.jpeg",
+          "label": "Account information settings",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.30 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/18-messages-empty-state.jpeg",
+          "label": "Messaging screen empty state",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.30 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/19-subscription-status.jpeg",
+          "label": "Subscription status and feature list",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.31 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/20-app-settings.jpeg",
+          "label": "Appearance and language settings",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.31 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/21-medical-history-editor.jpeg",
+          "label": "Medical history editor",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.32 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/22-case-payment.jpeg",
+          "label": "Case payment entry",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.33 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/23-case-details-payment.jpeg",
+          "label": "Case details and payments",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.34 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/24-diagnostic-image-upload.jpeg",
+          "label": "Diagnostic image upload form",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.35 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/25-dental-treatment-options.jpeg",
+          "label": "Dental treatment options",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.36 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/26-treatment-plan.jpeg",
+          "label": "Treatment plan details",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.36 AM (2).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/27-diagnostic-details.jpeg",
+          "label": "Diagnostic detail view",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.36 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/28-inventory-add-material.jpeg",
+          "label": "Add material to inventory form",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.37 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/29-inventory-medication-list.jpeg",
+          "label": "Inventory and medication list",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.37 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/30-medical-history-cases.jpeg",
+          "label": "Medical history and case timeline",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.39 AM (1).jpeg"
+        },
+        {
+          "file": "assets/screenshots/smart-dental-system/31-inventory-material-entry.jpeg",
+          "label": "Inventory material entry example",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600,
+          "source_file": "WhatsApp Image 2026-10-26 at 4.45.39 AM.jpeg"
+        },
+        {
+          "file": "assets/screenshots/one-dental-app/mobile-intraoral-measurement.jpeg",
+          "url": "",
+          "label": "Intraoral image with measurement overlays",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600
+        },
+        {
+          "file": "assets/screenshots/one-dental-app/mobile-profile-analysis.jpeg",
+          "url": "",
+          "label": "Profile image and analysis view",
+          "viewport": "mobile",
+          "width": 720,
+          "height": 1600
+        }
+      ],
+      "original_site_images": [],
+      "limitations": [
+        "The provided dashboard route redirects signed-out visitors to the sign-in page.",
+        "The WhatsApp images are user-supplied mobile screen captures; the owner states the displayed data is fake.",
+        "Repeated dashboard and subscription views were omitted from this gallery.",
+        "The owner identifies this app as ONE; the linked sign-in page currently shows Smart Dental System, which the owner confirms is the same app.",
+        "The supplied collage and two mobile images are from C:\\Users\\kerollos\\Desktop\\ONE protofolio; confirm reuse rights before public launch."
+      ],
+      "primary_screenshot_candidate": "assets/screenshots/smart-dental-system/02-dashboard-overview.jpeg",
+      "cover_image": {
+        "file": "assets/screenshots/one-dental-app/cover-complex.jpeg",
+        "label": "Supplied collage cover",
+        "width": 1024,
+        "height": 572,
+        "type": "owner-supplied image"
+      }
+    }
+  ]
+}
